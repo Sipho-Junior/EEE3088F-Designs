@@ -1,0 +1,8 @@
+Comment,Designator,Footprint,LCSC
+10k,"R16,R17,R18",R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical,C17414
+2k,"R13,R14,R15",R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical,C17944
+82K,"R7,R8,R9",R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical,C23254
+100,"R1,R2,R3,R4,R5,R6",R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical,C25076
+D_Photo,"D7,D8,D9",LED_D3.0mm,C405264
+IR204A,"D1,D2,D3,D4,D5,D6",LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_IRBlack,C405273
+LM358_DFN,"U1,U2",DFN-8-1EP_2x2mm_P0.5mm_EP1.05x1.75mm,C7950
